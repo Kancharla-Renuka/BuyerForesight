@@ -1,0 +1,5 @@
+{
+  "name": "User Directory Dashboard",
+  "description": "A professional dashboard to browse, search, and sort user information from JSONPlaceholder.",
+  "requestFramePermissions": []
+}
